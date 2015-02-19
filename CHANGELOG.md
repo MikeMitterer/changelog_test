@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.0.3](https://github.com/MikeMitterer/changelog_test/tree/0.0.3)
+[Full Changelog](https://github.com/MikeMitterer/changelog_test/compare/0.0.2...0.0.3)
+#### 19/02/15
 ## [0.0.2](https://github.com/MikeMitterer/changelog_test/tree/0.0.2)
 #### 19/02/15
 
