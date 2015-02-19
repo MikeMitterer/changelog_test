@@ -1,6 +1,6 @@
-##Change Log##
+#Change Log#
 
-##[Unreleased](http://github.com/MikeMitterer/changelog_test/compare/0.0.7...HEAD)##
+##[v0.0.8](http://github.com/MikeMitterer/changelog_test/compare/v0.0.8...0.0.7) - 2015-02-19##
 ###Docs###
 * Hallo DOC vor 7 [3d2755e](http://github.com/MikeMitterer/changelog_test/commit/3d2755ee5347f8c08c71acedc36cd0392c9c882a)
 
